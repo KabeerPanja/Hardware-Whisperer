@@ -21,7 +21,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 # ================= CONFIG =================
 PDF_PATH = './knowledge_base/HARDWARE_TROUBLESHOOTING_GUIDE.pdf'  # your single PDF
 PERSIST_DIR = './docs/chroma/'
-GOOGLE_API_KEY = "AIzaSyBoRhiBq664OmHcZXXLden_uFBJP-bhnTY"
+GOOGLE_API_KEY = "AIzaxxxxxxxxxxxxxxxxxxxxxxxxxx"
 # =========================================
 
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
